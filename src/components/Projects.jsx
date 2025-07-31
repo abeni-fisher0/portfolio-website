@@ -13,7 +13,7 @@ const projects = [
       "Gained hands-on experience integrating secure JWT-based auth, managing file uploads via Cloudinary, and implementing structured state management in Flutter using BLoC. Learned how to organize a large-scale app using clean architecture on both frontend and backend.",
     hardships:
       "Faced challenges syncing secure storage tokens across sessions in Flutter, handling image upload errors from low-bandwidth devices, and configuring CORS and environment variables correctly in production.",
-    link: "https://github.com/yourusername/wander-oromia",
+    link: "https://github.com/abeni-fisher0/wander_oromia",
   },
   {
     title: "TechNotes",
@@ -25,7 +25,7 @@ const projects = [
       "Learned how to structure scalable full-stack applications using MERN. Implemented secure authentication with JWT, role-based access control, and clean Redux Toolkit state management.",
     hardships:
       "Faced issues managing token expiration and refresh flows, optimizing API calls with Redux, and syncing backend error handling with frontend feedback in real-time.",
-    link: "https://github.com/yourusername/tech-notes",
+    link: "https://github.com/abeni-fisher0/repair-innov",
   },
   {
     title: "QuickTask API",
@@ -37,7 +37,7 @@ const projects = [
       "Developed a strong understanding of modular backend architecture using NestJS. Learned how to structure scalable codebases, implement database relationships with TypeORM, and document REST APIs with Swagger.",
     hardships:
       "Faced challenges with managing TypeORM migrations and integrating Passport strategies for custom role-based authentication. Also had to fine-tune testing with Jest for better coverage reporting.",
-    link: "https://github.com/yourusername/quicktask-api",
+    link: "https://github.com/abeni-fisher0/quicktask-api",
   },
   {
     title: "Queue Management System",
@@ -49,7 +49,7 @@ const projects = [
       "Learned how to structure a modern full-stack app with Vite for lightning-fast dev workflow and Tailwind for UI efficiency. On the backend, I implemented secure JWT authentication, email notifications using Nodemailer, and MongoDB schema design with Mongoose.",
     hardships:
       "Integrating email notifications with nodemailer and managing async behavior for queue updates was tricky. Also faced CORS-related issues when syncing the frontend with backend during development.",
-    link: "https://github.com/yourusername/queue-management-system",
+    link: "https://github.com/abeni-fisher0/Queue-Management-System",
   },
   {
     title: "RepairShop",
@@ -70,7 +70,7 @@ const projects = [
       "Mastered full-stack development with Next.js App Router. Implemented secure serverless authentication using Kinde, form validation with Zod and React Hook Form, and real-time PostgreSQL integration via Drizzle ORM and Neon. Enhanced debugging and monitoring with Sentry.",
     hardships:
       "Faced setup conflicts with types in early React 19 releases, and wrestled with database schema migrations and Drizzle's stricter typing. Also had to handle tricky edge-case errors when syncing server actions with client-side updates.",
-    link: "https://github.com/yourusername/repairshop",
+    link: "https://github.com/abeni-fisher0/comp-repair",
   },
   {
     title: "ChatApp",
@@ -89,7 +89,7 @@ const projects = [
       "Learned how to integrate real-time communication using Socket.IO, manage persistent local state with SharedPreferences, and handle image/video streaming and file paths efficiently in Flutter. Also gained experience customizing UI with SVGs and custom fonts.",
     hardships:
       "Faced compatibility issues with camera and video plugins across devices. Setting up socket events for bidirectional real-time messaging required careful debugging. UI performance optimization with emojis and media previews also posed challenges.",
-    link: "https://github.com/yourusername/chatapp",
+    link: "https://github.com/abeni-fisher0/chat-app-flutter",
   },
   {
     title: "Music Controller App",
@@ -108,7 +108,7 @@ const projects = [
       "Learned how to integrate third-party APIs securely (Spotify), build RESTful APIs using Django REST Framework, and manage frontend routing and state with React. Also got a solid grip on bundling React into Django using Webpack.",
     hardships:
       "Setting up cross-origin communication between Django and React was tricky. Debugging Spotify's OAuth flow and token refresh took time. Webpack configs were a pain — getting Babel and React to cooperate wasn't easy.",
-    link: "https://github.com/yourusername/music-controller",
+    link: "https://github.com/abeni-fisher0/Music-Controller-Web-App",
   },
 ];
 
