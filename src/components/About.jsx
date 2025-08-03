@@ -12,7 +12,7 @@ export default function AboutSection() {
         <p className="text-base leading-relaxed">
           I’m <strong>Abenezer Dehene (Jack)</strong>, a 4th year Mechanical Engineering student and full-stack developer with 3+ years of experience.
           <br /><br />
-          I specialize in building responsive mobile apps using <span className="text-purple-400">Flutter</span> and scalable APIs using <span className="text-yellow-300">Node.js</span>, <span className="text-red-400">NestJS</span>, and <span className="text-blue-400">PostgreSQL</span>.
+          I specialize in building responsive mobile apps using <span className="text-purple-400">Flutter</span> and scalable APIs using <span className="text-yellow-300">Node.js</span>, <span className="text-red-400">NestJS</span>, and <span className="text-blue-400">PostgreSQL</span> And More.
           <br /><br />
           I care deeply about clean architecture, high-performance code, and shipping work that matters.
         </p>
